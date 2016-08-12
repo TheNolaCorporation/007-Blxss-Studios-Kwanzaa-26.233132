@@ -1,4 +1,4 @@
-#クワンザ
+#クワンザ ( Kuwanza )
 The Kumite Wing
 
 #Hashes ( bytes: 32 )
