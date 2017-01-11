@@ -1,4 +1,5 @@
 #組手 : BLXSS Studios [ 赤面スタジオ ] - Blush Studios
+![](http://blxss.gq/lib/images/logo.png)
 ##[26.233132] - http://blxss.gq
 ###今、あなたは私たちを参照してください。今、あなたは[私を参照してください]しないでください
 ####kレヱ
