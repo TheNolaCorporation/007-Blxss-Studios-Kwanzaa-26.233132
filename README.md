@@ -3,6 +3,11 @@
 ###今、あなたは私たちを参照してください。今、あなたは[私を参照してください]しないでください
 ####kレヱ
 
+####Current Line Up
+Artist							|	Handle 					|	AKA							|	Sound Cloud																	|	Studio Suite
+-------------------	|	---------------	|	--------------- |	-------------------------------------------	|	-----------
+Marvelle MayWeather	|	@DizzleTheAxiom	|	Axiom of KMT.T	| https://soundcloud.com/production-by-axiom	| [701](http://blxss.gq/marvelle-mayweather)
+
 #####ハッシュ ( バイト: 16 ) ( Private )
 base64: Z3EuYmx4c3M=
 
