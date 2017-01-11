@@ -11,14 +11,14 @@ M.MayWeather	      |	@DizzleTheAxiom	|	Axiom of KMT.T	| https://goo.gl/pGEHhI	| 
 V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://goo.gl/74ONG8	| [702](http://blxss.gq/vmiles)
 J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	        | [702](http://blxss.gq/j-saul)
 
-#####Marvelle MayWeather (PKA: Floy_Dizzle)
+#Marvelle MayWeather (PKA: Floy_Dizzle)
 ![](http://blxss.gq/var/albums/marvelle-mayweather/art.png)
 
-#####V.Miles (PKA: Pac_Sun)
+#V.Miles (PKA: Pac_Sun)
 ![](http://blxss.gq/var/albums/vmiles/art.jpg)
 
 
-#####J.Saul (PKA: Mr. Pink)
+#J.Saul (PKA: Mr. Pink)
 ![](http://blxss.gq/var/albums/j-saul/art.jpg)
 
 
