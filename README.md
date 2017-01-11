@@ -11,14 +11,14 @@ V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://soundcloud.com/
 J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	                              | [702](http://blxss.gq/j-saul)
 
 #####Marvelle MayWeather (PKA: Floy_Dizzle)
-![](http://blxss.gq/var/albums/marvelle-mayweather/art.png =250x250)
+![](http://blxss.gq/var/albums/marvelle-mayweather/art.png)
 
 #####V.Miles (PKA: Pac_Sun)
-![](http://blxss.gq/var/albums/vmiles/art.jpg =250x250)
+![](http://blxss.gq/var/albums/vmiles/art.jpg)
 
 
 #####J.Saul (PKA: Mr. Pink)
-![](http://blxss.gq/var/albums/j-saul/art.jpg =250x250)
+![](http://blxss.gq/var/albums/j-saul/art.jpg)
 
 
 #####ハッシュ ( バイト: 16 ) ( Private )
