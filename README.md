@@ -7,7 +7,7 @@
 ####Current Line Up
 Artist							|	Handle 					|	AKA							|	Sound Cloud																	|	Studio Suite
 -------------------	|	---------------	|	--------------- |	-------------------------------------------	|	-----------
-Marvelle MayWeather	|	@DizzleTheAxiom	|	Axiom of KMT.T	| https://soundcloud.com/production-by-axiom	| [701](http://blxss.gq/marvelle-mayweather)
+M.MayWeather	      |	@DizzleTheAxiom	|	Axiom of KMT.T	| https://soundcloud.com/production-by-axiom	| [701](http://blxss.gq/marvelle-mayweather)
 V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://soundcloud.com/victor-anthony-miles	| [702](http://blxss.gq/vmiles)
 J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	                              | [702](http://blxss.gq/j-saul)
 
