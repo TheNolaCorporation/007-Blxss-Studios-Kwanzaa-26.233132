@@ -5,11 +5,11 @@
 ####kレヱ
 
 ####Current Line Up
-Artist							|	Handle 					|	AKA							|	Sound Cloud																	|	Studio Suite
--------------------	|	---------------	|	--------------- |	-------------------------------------------	|	-----------
-M.MayWeather	      |	@DizzleTheAxiom	|	Axiom of KMT.T	| https://soundcloud.com/production-by-axiom	| [701](http://blxss.gq/marvelle-mayweather)
-V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://soundcloud.com/victor-anthony-miles	| [702](http://blxss.gq/vmiles)
-J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	                              | [702](http://blxss.gq/j-saul)
+Artist							|	Handle 					|	AKA							|	Sound Cloud						|	Studio Suite
+-------------------	|	---------------	|	--------------- |	---------------------	|	-----------
+M.MayWeather	      |	@DizzleTheAxiom	|	Axiom of KMT.T	| https://goo.gl/pGEHhI	| [701](http://blxss.gq/marvelle-mayweather)
+V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://goo.gl/74ONG8	| [702](http://blxss.gq/vmiles)
+J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	        | [702](http://blxss.gq/j-saul)
 
 #####Marvelle MayWeather (PKA: Floy_Dizzle)
 ![](http://blxss.gq/var/albums/marvelle-mayweather/art.png)
