@@ -3,10 +3,23 @@
 ###今、あなたは私たちを参照してください。今、あなたは[私を参照してください]しないでください
 ####kレヱ
 
-####Current Line Up
+#####Current Line Up
 Artist							|	Handle 					|	AKA							|	Sound Cloud																	|	Studio Suite
 -------------------	|	---------------	|	--------------- |	-------------------------------------------	|	-----------
 Marvelle MayWeather	|	@DizzleTheAxiom	|	Axiom of KMT.T	| https://soundcloud.com/production-by-axiom	| [701](http://blxss.gq/marvelle-mayweather)
+V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://soundcloud.com/victor-anthony-miles	| [702](http://blxss.gq/vmiles)
+J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	                              | [702](http://blxss.gq/j-saul)
+
+#######Marvelle MayWeather (PKA: Floy_Dizzle)
+![](http://blxss.gq/var/albums/marvelle-mayweather/art.png)
+
+#######V.Miles (PKA: Pac_Sun)
+![](http://blxss.gq/var/albums/vmiles/art.jpg =250x250)
+
+
+#######J.Saul (PKA: Mr. Pink)
+![](http://blxss.gq/var/albums/j-saul/art.jpg =250x250)
+
 
 #####ハッシュ ( バイト: 16 ) ( Private )
 base64: Z3EuYmx4c3M=
