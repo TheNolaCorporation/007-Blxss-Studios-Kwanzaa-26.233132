@@ -11,9 +11,9 @@ M.MayWeather	      |	@DizzleTheAxiom	|	Axiom of KMT.T	| https://goo.gl/pGEHhI	| 
 V.Miles           	|	@_VMILES_       |	Pac_Sun	        | https://goo.gl/74ONG8	| [702](http://blxss.gq/vmiles)
 J.Saul           	  |	[ OFF GRID ]    |	Cool Kid Saul   | [ OFF GRID ]	        | [702](http://blxss.gq/j-saul)
 
-<img src="http://blxss.gq/var/albums/marvelle-mayweather/art.png" alt="Marvelle MayWeather (PKA: Floy_Dizzle)" title="Marvelle MayWeather (PKA: Floy_Dizzle)" />
-<img src="http://blxss.gq/var/albums/vmiles/art.jpg" alt="V.Miles (PKA: Pac_Sun)" title="V.Miles (PKA: Pac_Sun)" />
-<img src="http://blxss.gq/var/albums/j-saul/art.jpg" alt="J.Saul (PKA: Mr. Pink)" title="J.Saul (PKA: Mr. Pink)" />
+<img src="http://blxss.gq/var/albums/marvelle-mayweather/art.png" alt="Marvelle MayWeather (PKA: Floy_Dizzle)" title="Marvelle MayWeather (PKA: Floy_Dizzle)" height="200px" width="auto" />
+<img src="http://blxss.gq/var/albums/vmiles/art.jpg" alt="V.Miles (PKA: Pac_Sun)" title="V.Miles (PKA: Pac_Sun)" height="200px" width="auto" />
+<img src="http://blxss.gq/var/albums/j-saul/art.jpg" alt="J.Saul (PKA: Mr. Pink)" title="J.Saul (PKA: Mr. Pink)" height="200px" width="auto" />
 
 #####ハッシュ ( バイト: 16 ) ( Private )
 base64: Z3EuYmx4c3M=
